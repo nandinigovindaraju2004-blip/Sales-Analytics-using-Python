@@ -1,7 +1,4 @@
 # Sales Analytics Dashboard
-
-This project is a Streamlit-based sales analytics dashboard for exploring season-wise and region-wise product sales performance. It is designed as an MCA final-year project and provides an interactive way to analyze sales, profit, product trends, and regional performance.
-
 ## Project Overview
 
 The dashboard helps users:
